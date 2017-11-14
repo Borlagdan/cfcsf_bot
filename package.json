@@ -1,0 +1,31 @@
+{
+  "name": "cfcsf_bot",
+  "version": "1.0.0",
+  "description": "Messenger Bot for CFCSF.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Borlagdan/cfcsf_bot.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "messenger",
+    "bot",
+    "cfcsf"
+  ],
+  "author": "Borlagdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Borlagdan/cfcsf_bot/issues"
+  },
+  "homepage": "https://github.com/Borlagdan/cfcsf_bot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
